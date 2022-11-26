@@ -1,0 +1,22 @@
+{
+  "name": "Silvia Ferrai",
+  "profession": "Full Stack Developer",
+  "photo": "https://ibb.co/tJvWjqz",
+  "about_me": "Estoy buscando mi primera oportunidad para seguir formándome y aprendiendo en el campo del desarrollo web. Me considero una persona responsable, con altas dotes de organización, tanto del personal como del tiempo. Me gusta el formar a la gente y seguir aprendiendo en equipo. Para ello estoy buscando un lugar en el que poder seguir creciendo y desarrollando mis habilidades. Mi tiempo libre lo empleo en disfrutar bajo el sol, tanto con la bici como con un buen libro, pasear por Madrid, y hacer pequeñas escapadas para conocer sitios nuevos.",
+  "skills": [
+    "Javascript",
+    "Typescript",
+    "NodeJs",
+    "ReactJS",
+    "Redux",
+    "HTML",
+    "CSS",
+    "SASS",
+    "BEM",
+    "MySQL",
+    "MongoDB",
+    "Mongoose",
+    "Jest",
+    "Cypress"
+  ]
+}

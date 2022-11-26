@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Imago App",
+    "description": "App de photos creada con React/Redux-toolkit, api de Unsplash, javascript, MUI.",
+    "image": "https://ibb.co/f015tLX",
+    "link": "https://silviafer-dev.github.io/imago/"
+  },
+  {
+    "name": "Hotel Miranda Web page",
+    "description": "Utilicé HTML y SASS, api de Google Maps y javascript para algunas funcionalidades.",
+    "image": "https://ibb.co/BTqX9yb",
+    "link": "https://silviafer-dev.github.io/Hotel-Miranda-web-page/"
+  },
+   {
+    "name": "Oxygen Shop",
+    "description": "Home page creada con HTML y SASS y Javascript.",
+    "image": "https://ibb.co/M62BMd5",
+    "link": "https://silviafer-dev.github.io/Oxygen-Shop-No-JS/"
+  }
+]
