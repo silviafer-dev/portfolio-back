@@ -14,6 +14,13 @@
     "github": "https://github.com/silviafer-dev/Hotel-Miranda-web-page"
   },
   {
+    "name": "Dashboard Hotel",
+    "description": "App creada con javascript, react/redux, context, react-routing, styled component.",
+    "image": "https://i.ibb.co/4j32Syd/dashboard.png",
+    "link":"https://silviafer-dev.github.io/dashboard/",
+    "github": "https://github.com/silviafer-dev/dashboard"
+  },
+  {
     "name": "Oxygen Shop",
     "description": "Home page creada con HTML y SASS y Javascript.",
     "image": "https://i.ibb.co/wRvtBt6/oxygen-frame.png",
